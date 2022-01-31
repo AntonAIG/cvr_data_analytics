@@ -1,4 +1,5 @@
 # Conservation Voltage Reduction (CVR) evaluation
+**[Link to the analysis report](https://github.com/AntonAIG/cvr_data_analytics/blob/main/reports/analysis_report.md)**
 
 ## Background
 The increase in demand for power due to the increase in urban and rural development, electric vehicles, cooling and heating demand, and overall economic development has stretched the current electricity distribution network to its maximum capacity to the point that new dis-tributed generations (DG) are facing difficulties with gird integration. Network expansion is always met with increasing capital cost, thus giving the network operators the opportunity of seeking for cheaper alternatives. Integrating DG into the grid requires a substantial apparatus for voltage stabilization and ensuring the quality of the voltage supplied. Optimizing power supply by deploying demand response (DR) and Volt/Var Optimization (VVO) can save huge infrastructure costs in additional generation and expansion, while achieving set emission reduction targets by 2050. The cost benefits of such actions are very substantial and feasible enough to investigate.
