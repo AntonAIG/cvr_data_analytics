@@ -21,6 +21,6 @@ The granularity of the data is 6 seconds.
 Nominal voltage setpoint is 230V with bossibility of 2.5% voltage reduction. This will be verified in the dataset.
 
 ## Data Analysis
-The evaluation report can be found here
+The evaluation report can be found [here](https://github.com/AntonAIG/cvr_data_analytics/blob/main/reports/analysis_report.md)
 
 Tools used: `SQL`, `Python`, `Excel`, and `Tableau`
