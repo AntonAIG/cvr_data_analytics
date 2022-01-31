@@ -25,3 +25,6 @@ Nominal voltage setpoint is 230V with bossibility of 2.5% voltage reduction. Thi
 The evaluation report can be found [here](https://github.com/AntonAIG/cvr_data_analytics/blob/main/reports/analysis_report.md)
 
 Tools used: `SQL`, `Python`, `Excel`, and `Tableau`
+
+The data source is reliable and unbiased because they were taken form a functioning substation.
+However, there are some uncertainties in the data such as empty data points, noisy data, and measurement uncertainties
