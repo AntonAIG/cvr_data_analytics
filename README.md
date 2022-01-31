@@ -22,4 +22,5 @@ Nominal voltage setpoint is 230V with bossibility of 2.5% voltage reduction. Thi
 
 ## Data Analysis
 The evaluation report can be found here
+
 Tools used: `SQL`, `Python`, `Excel`, and `Tableau`
