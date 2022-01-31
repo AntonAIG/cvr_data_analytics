@@ -16,4 +16,4 @@ In other to estimate the benefits of CVR, an evaluation of the measurement resul
 ![substation](https://2hfybu1lrdue3x9wnu1dvw7s-wpengine.netdna-ssl.com/wp-content/uploads/2020/05/Qualitrol-Transmission-Distribution-Substation-Monitoring.jpg)
 
 A site was selected for measurement, and voltage (U), active power (P) and reactive power (Q) on three phases of the feeder was taken.
-The baseline measurement is applied towards developing the best statistical model that can estimate energy demand during CVR-off for the test periods. The accuracy of this type of model depends on the correlation between energy and environmental factors during testing.
+The baseline measurement is applied towards developing the best statistical model that can estimate energy demand during CVR-off for the test periods. The accuracy of this type of model depends on the correlation between energy and environmental factors during testing. The test was carried out for a one-year period in a site in Germany. This network is made up of more than 98 and 10 residential and commerical customers.
