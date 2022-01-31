@@ -17,3 +17,9 @@ In other to estimate the benefits of CVR, an evaluation of the measurement resul
 
 A site was selected for measurement, and voltage (U), active power (P) and reactive power (Q) on three phases of the feeder was taken.
 The baseline measurement is applied towards developing the best statistical model that can estimate energy demand during CVR-off for the test periods. The accuracy of this type of model depends on the correlation between energy and environmental factors during testing. The test was carried out for a one-year period in a site in Germany. This network is made up of more than 98 and 10 residential and commerical customers.
+The granularity of the data is 6 seconds.
+Nominal voltage setpoint is 230V with bossibility of 2.5% voltage reduction. This will be verified in the dataset.
+
+## Data Analysis
+The evaluation report can be found here
+Tools used: `SQL`, `Python`, `Excel`, and `Tableau`
