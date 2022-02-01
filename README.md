@@ -32,3 +32,10 @@ However, there are some uncertainties in the data such as empty data points, noi
 ## Visualizations
 The evalauated CVR factors for power can be shown bellow
 ![image](https://github.com/AntonAIG/cvr_data_analytics/blob/main/reports/newplot.png)
+
+## Energy savings evaluation
+CVR factors for energy savings can be further evaluated using a regression based model. This involves the use of environmental factors to estimate the nominal power consumption during a CVR operation. The estimation process that I deployed can be illustrated in the image below:
+
+![mlr](https://github.com/AntonAIG/cvr_data_analytics/blob/main/reports/mlr.JPG)
+
+The dataset for energy savings was further visuallized in **Tableau**
