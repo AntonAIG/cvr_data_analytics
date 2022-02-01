@@ -28,3 +28,7 @@ Tools used: `SQL`, `Python`, `Excel`, and `Tableau`
 
 The data source is reliable and unbiased because they were taken form a functioning substation.
 However, there are some uncertainties in the data such as empty data points, noisy data, and measurement uncertainties
+
+## Visualizations
+The evalauated CVR factors for power can be shown bellow
+![image](https://github.com/AntonAIG/cvr_data_analytics/blob/main/reports/newplot.png)
