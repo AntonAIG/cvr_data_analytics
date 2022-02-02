@@ -38,4 +38,14 @@ CVR factors for energy savings can be further evaluated using a regression based
 
 ![mlr](https://github.com/AntonAIG/cvr_data_analytics/blob/main/reports/mlr.JPG)
 
-The dataset for energy savings was further visuallized in **Tableau**
+The dataset for energy savings was further visuallized (and can be viewed) in [**Tableau**](https://public.tableau.com/views/cvr_f_viz/CVRf_summary?:language=de-DE&:display_count=n&:origin=viz_share_link)
+
+![tableau](https://github.com/AntonAIG/cvr_data_analytics/blob/main/energy_savings/CVRf_summary.png)
+
+This image shows the relationships between voltage reduction and energy savings for a residential low voltage network in Germany.
+
+* The *(2019 vs. 2021 Voltage profile)* voltage was first lowered from the nominal operating level (236V) in 2019 to reduced setopoint (224V) in 2021. This was carried out in April, 2021.
+* This voltage reduction resulted to a *Measured energy (kWh)*, which represents the actual consumption in 2021. Using multivariate linear regression, we computed the *Estimated energy (kWh)* which represents the power consumption without CVR in the same testing period.
+* The bar plot shows the average CVR factors for each day of the week. The result shows that Monday has the highest factor ar 1.05 and Tuesday has the lowest factor at 0.81.
+* The scatter plot shows the *Percentage voltage change* versus *CVR factors*. This plot shows that the average voltage reduction during CVR deployment was 5.2%. Therefore Monday with a CVR factor of 1.05% can produce energy savings of (5.2 x 1.05) 5.46%.
+
