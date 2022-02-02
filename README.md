@@ -49,7 +49,7 @@ This image shows the relationships between voltage reduction and energy savings 
 * The bar plot shows the average CVR factors for each day of the week. The result shows that Monday has the highest factor ar 1.05 and Tuesday has the lowest factor at 0.81.
 * The scatter plot shows the *Percentage voltage change* versus *CVR factors*. This plot shows that the average voltage reduction during CVR deployment was 5.2%. Therefore Monday with a CVR factor of 1.05% can produce energy savings of (5.2 x 1.05) 5.46%.
 
-## LSTM Load Demand Forecasting
+## [LSTM Load Demand Forecasting](https://github.com/AntonAIG/cvr_data_analytics/blob/main/energy_savings/load_demand_LSTM.ipynb)
 The load demand forecasting model predicts the load profile of a given test sample. The test sample can contain multiple features such as temperature, day of the week, time of day, holiday, pressure, humidity, wind speed, etc. This evaluation is the final stage of my master's thesis.
 
 > The goal is to show that we can produce more acccurate estimation of power using an LSTM model instead of multivariate linear regression.
